@@ -1,8 +1,7 @@
 # 💫 About Me:
-I am working on Java, spring, hibernate, windchill, plm<br>
+I'm a passionate software developer focusing on full-stack java development, currently exploring the world of AI and ML. I love building scalable applications and contributing to open-source projects.
 
-
-## 🌐 Socials:
+## 🌐 How to Reach Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daupawar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-pawar-59599643) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rohan-pawar) 
 
 # 💻 Tech Stack:
